@@ -2,7 +2,8 @@
 ## Ejemplo de Inicia sesión con lavarel !personalizado! 
 
 Pequeño ejemplo de Inicia sesión en Laravel usando middleware  !personalizado! !personalizado!
-clave -> kernel.php, controllers, y vistas. 
+
+clave: modificado -> kernel.php, controllers, y vistas. 
 
 
 Necesitas ejecutar las migraciones para crear 3 bases de datos, users, user_metadata, perfil.
@@ -13,14 +14,12 @@ Requiere:
 
 composer install 
 
-
-Requiere 
-composer install 
-
 Usuario en la base de datos: 
 
 user: test@test.com
+
 pass: 123456789
+
 pass: $2y$10$mhQUsQSmihM93E32dUpKuOBna6kIOz9EUPjj3ZNcqJIhGxl81kfVW
 
 
