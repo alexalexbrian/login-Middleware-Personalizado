@@ -1,5 +1,5 @@
 
-## Ejemplo de Inicia sesión con lavarel 
+## Ejemplo de Inicia sesión con lavarel !personalizado! 
 
 Pequeño ejemplo de Inicia sesión en Laravel usando middleware  !personalizado! !personalizado!
 clave -> kernel.php, controllers, y vistas. 
